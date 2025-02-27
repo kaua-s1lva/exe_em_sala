@@ -1,3 +1,5 @@
+package decorator;
+
 public class ArmaduraDecorator extends PersonagemDecorator {
     public ArmaduraDecorator(Componente elementoDecorado, String nome, double valor) {
         super(elementoDecorado);

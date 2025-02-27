@@ -1,3 +1,4 @@
+package decorator;
 public abstract class PersonagemDecorator implements Componente{
     protected Componente elementoDecorado;
 

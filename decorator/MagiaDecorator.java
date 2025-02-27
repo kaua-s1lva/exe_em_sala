@@ -1,3 +1,5 @@
+package decorator;
+
 public class MagiaDecorator extends PersonagemDecorator {
     private int segundos;
 

@@ -1,5 +1,8 @@
+package model;
 import java.util.HashMap;
 import java.util.Map;
+
+import decorator.Componente;
 
 public class Personagem implements Componente {
     private String nome;
